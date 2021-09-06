@@ -7,3 +7,4 @@ this is first text file
 one
 two
 three
+four
